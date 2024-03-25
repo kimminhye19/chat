@@ -1,0 +1,21 @@
+C:\Users\HAN-MECH CONTROLS\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\HAN-MECH CONTROLS\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\HAN-MECH CONTROLS\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\HAN-MECH CONTROLS\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\HAN-MECH CONTROLS\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.Form1.resources
+C:\Users\HAN-MECH CONTROLS\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\HAN-MECH CONTROLS\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\Users\HAN-MECH CONTROLS\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\HAN-MECH CONTROLS\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\HAN-MECH CONTROLS\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\mk020\Downloads\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\mk020\Downloads\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\mk020\Downloads\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\mk020\Downloads\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\mk020\Downloads\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mk020\Downloads\ChatServer\ChatServer\obj\Debug\ChatServer.Form1.resources
+C:\Users\mk020\Downloads\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\mk020\Downloads\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\Users\mk020\Downloads\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\mk020\Downloads\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\mk020\Downloads\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
